@@ -1,4 +1,6 @@
-webserver-vagrant
+vagrant-php
 =================
 
-Simple web server using Vagrant and Puppet
+Simple PHP web server using Vagrant and Puppet.
+
+[Blog Post](http://arnaudchenyensu.com/simple-php-web-server-with-vagrant-and-puppet-2/)
